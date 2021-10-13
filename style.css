@@ -1,0 +1,30 @@
+[class*="col"] {
+    min-height: 100px;
+    border: 1px solid #fff;
+    background-color: green;
+}
+
+
+[class*="col-"] {
+    min-height: 100px;
+    border: 1px solid #fff;
+    background-color: blue;
+}
+
+
+/* HEADER > NAV RULES */
+
+.top-nav {
+    background-color: red;
+    width: 100%;
+}
+
+/* JUMBOTRON RULES */
+
+.image-jumbo {
+    background-image: url(img/jumbo-bg.png);
+    height: 80vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
