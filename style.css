@@ -24,7 +24,28 @@
 .image-jumbo {
     background-image: url(img/jumbo-bg.png);
     height: 80vh;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
 
+.jumbo-margin {
+    width: 80%;
+    height: 100%;
+    margin: auto;
+}
+
+.jumbo-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    max-width: 100%%;
+}
+
+.jumbo-logo>img {
+    width: 400px
+}
+#test {
+    max-width: 300px;
+}
