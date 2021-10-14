@@ -21,6 +21,10 @@
 
 /* JUMBOTRON RULES */
 
+.jumbotron {
+    color: #fff;
+}
+
 .image-jumbo {
     background-image: url(img/jumbo-bg.png);
     height: 80vh;
@@ -40,12 +44,18 @@
     flex-direction: column;
     justify-content: center;
     height: 100%;
-    max-width: 100%%;
+    max-width: 100%;
 }
 
 .jumbo-logo>img {
-    width: 400px
+    max-width: 400px
 }
-#test {
-    max-width: 300px;
+
+.title-game-jumbo {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.text-jumbo {
+    width: 100%;
 }
