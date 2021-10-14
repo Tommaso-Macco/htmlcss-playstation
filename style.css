@@ -11,6 +11,10 @@
     background-color: blue;
 }
 
+a {
+    text-decoration: none;
+}
+
 
 /* HEADER > NAV RULES */
 
@@ -57,5 +61,64 @@
 }
 
 .text-jumbo {
+    width: 100%;
+}
+
+.image-box {
+    margin-top: 24px;
+}
+
+.image-box>img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* MAIN SECTION1 RULES */
+
+#play5 {
+    margin-top: 150px;
+}
+
+.title-section {
+    text-align: center;
+}
+
+
+.motivational {
+    color: #0072ce;
+}
+
+.why-play5 {
+    margin-top: 35px;
+    color: grey;
+}
+
+/* ------------------------ */
+/* LEFT SIDE */
+.left-content, .right-content {
+
+}
+
+.left-content {
+    padding-top: 45%;
+    height: 100%;
+}
+
+#test {
+    line-height: 1000px;
+    vertical-align: middle;
+}
+
+/* .button-classic>a {
+    color: #fff;
+    padding: 10px;
+    background-color: #2d64e6;
+    border-radius: 10px;
+    font-weight: 700;
+} */
+
+/* RIGHT SIDE */
+
+.image>img {
     width: 100%;
 }
