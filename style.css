@@ -99,11 +99,44 @@ section {
     width: 100%;
 }
 
+/* UNDER IMAGE CONTENT */
+.active-page {
+    border-bottom: 5px solid blue;
+}
 
+.device-ps5>img {
+    width: 100%;
+}
 
 
 /* JUMBOTRON-2 RULES */
 /* IT TAKES TWO JUMBO */
+.image-jumbo-2 {
+    height: 800px;
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.grill-jumbo2 {
+    width: 95%;
+    margin: auto;
+    color: #fff;
+}
+
+.image-logo-takes-two {
+    max-width: 500px;
+}
+
+.image-logo-takes-two>img {
+    width: 100%;
+}
+
+.text-jumbo-inside2 {
+    max-width: 400px;
+    font-weight: 800;
+}
 
 /* MAIN - SECTION-2 RULES */
 /* GADGET PLAYSTATION4 */
