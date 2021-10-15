@@ -31,6 +31,10 @@ section {
 
 /* JUMBOTRON-1 RULES */
 /* RETURNAL JUMBO */
+.jumbotron {
+    height: 800px;
+}
+
 .image-jumbo-1 {
     height: 800px;
     background-image: url(img/jumbo-bg.png);
@@ -39,8 +43,16 @@ section {
     background-repeat: no-repeat;
 }
 
-.text-jumbo-inside {
+.grill-jumbo {
+    width: 95%;
+    margin: auto;
     color: #fff;
+    padding-top: 350px;
+}
+
+.image-logo-returnal>img {
+    min-width: 50%;
+    max-width: 100%;
 }
 
 /* UNDER JUMBO */

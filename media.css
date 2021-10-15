@@ -3,25 +3,25 @@
 }
 
 @media all and (min-width: 768px) and (max-width: 991px) { /* MEDIUM MD */
-.text-jumbo {
+.paragraph-jumbo {
     width: 100%;
 }
 }
 
 @media all and (min-width: 992px) and (max-width: 1199px) { /* LARGE LG */
-.text-jumbo {
+.paragraph-jumbo {
     width: 100%;
 }  
 }
 
 @media all and (min-width: 1200px) and (max-width: 1399px) { /* EXTRA LARGE XL */
-.text-jumbo {
+.paragraph-jumbo {
     max-width: 300px;
 }
 }
 
 @media all and (min-width: 1400px){ /* EXTRA EXTRA LARGE */
-.text-jumbo {
+.paragraph-jumbo {
     max-width: 300px;
 } 
 }
