@@ -1,3 +1,5 @@
+/* GENERAL RULES */
+
 [class*="col"] {
     min-height: 100px;
     border: 1px solid #fff;
@@ -11,121 +13,48 @@
     background-color: blue;
 }
 
-a {
-    text-decoration: none;
-}
+/* NAV RULES */
 
+/* NAV-TOP RULES */
+/* BANNER PLAYSTATION */
 
-/* HEADER > NAV RULES */
-
-.top-nav {
-    background-color: red;
-    width: 100%;
-}
-
-/* JUMBOTRON RULES */
-
-.jumbotron {
-    color: #fff;
-}
-
-.image-jumbo {
-    background-image: url(img/jumbo-bg.png);
-    height: 80vh;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
-.jumbo-margin {
-    width: 80%;
-    height: 100%;
-    margin: auto;
-}
-
-.jumbo-content {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    height: 100%;
-    max-width: 100%;
-}
-
-.jumbo-logo>img {
-    max-width: 400px
-}
-
-.title-game-jumbo {
-    margin-top: 35px;
-    margin-bottom: 35px;
-}
-
-.text-jumbo {
-    width: 100%;
-}
-
-.image-box {
-    margin-top: 24px;
-}
-
-.image-box>img {
-    width: 100%;
-    border-radius: 10px;
-}
-
-/* MAIN SECTION1 RULES */
-
-#play5 {
-    margin-top: 150px;
-}
-
-.title-section {
-    text-align: center;
-}
-
-
-.motivational {
-    color: #0072ce;
-}
-
-.why-play5 {
-    margin-top: 35px;
-    color: grey;
-}
-
-/* ------------------------ */
-/* LEFT SIDE */
-.left-content, .right-content {
-
-}
-
-.left-content {
-    padding-top: 45%;
-    height: 100%;
-}
-
-#test {
-    line-height: 1000px;
-    vertical-align: middle;
-}
-
-/* .button-classic>a {
-    color: #fff;
-    padding: 10px;
-    background-color: #2d64e6;
-    border-radius: 10px;
-    font-weight: 700;
-} */
-
-/* RIGHT SIDE */
-
-.image>img {
-    width: 100%;
-}
+/* NAV-DOWN RULES */
+/* NAVBAR-MAIN */
 
 
 
 
+/* JUMBOTRON-1 RULES */
+/* RETURNAL JUMBO */
 
-/* FOOTER */
+
+
+
+/* MAIN RULES */
+
+/* MAIN - SECTION-1 RULES */
+/* PLAYSTATION5 DEVICE */
+
+
+/* JUMBOTRON-2 RULES */
+/* IT TAKES TWO JUMBO */
+
+/* MAIN - SECTION-2 RULES */
+/* GADGET PLAYSTATION4 */
+
+
+/* MAIN - SECTION-3 RULES */
+/* PLAYSTATION PLUS */
+
+/* MAIN - SECTION-4 RULES */
+/* NEWS PLAYSTATION STORE */
+
+/* MAIN - SECTION-5 RULES */
+/* PLAYSTATION NOW "IDENTIC PS-PLUS" */
+
+/* MAIN - SECTION-6 RULES */
+/* SOCIAL MEDIA */
+
+/* FOOTER RULES */
+
 
