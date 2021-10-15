@@ -1,6 +1,6 @@
 /* GENERAL RULES */
 
-[class*="col"] {
+/* [class*="col"] {
     min-height: 100px;
     border: 1px solid #fff;
     background-color: green;
@@ -11,7 +11,7 @@
     min-height: 100px;
     border: 1px solid #fff;
     background-color: blue;
-}
+} */
 
 section {
     margin-top: 50px;
@@ -77,7 +77,7 @@ section {
 }
 
 .secondary-blue-title {
-    color: rgb(31, 68, 138);
+    color: #0072ce
 }
 
 .secondary-grey-title {
@@ -111,6 +111,11 @@ section {
 
 /* JUMBOTRON-2 RULES */
 /* IT TAKES TWO JUMBO */
+.jumbotron2 {
+    background-color: #1f1f1f;
+    padding-bottom: 50px;
+}
+
 .image-jumbo-2 {
     height: 800px;
     background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
@@ -136,6 +141,19 @@ section {
 .text-jumbo-inside2 {
     max-width: 400px;
     font-weight: 800;
+}
+
+.under-container {
+    padding-top: 50px;
+}
+
+.title-under-jumbo {
+    color: #fff;
+}
+
+.video-game-title {
+    padding-top: 10px;
+    color: #fff;
 }
 
 /* MAIN - SECTION-2 RULES */
