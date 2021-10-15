@@ -1,27 +1,29 @@
 @media all and (max-width: 767px) { /* SMALL SM */
-
+    .text-section1 {
+        padding-top: 40px;
+    }
 }
 
 @media all and (min-width: 768px) and (max-width: 991px) { /* MEDIUM MD */
-.paragraph-jumbo {
-    width: 100%;
-}
+    .paragraph-jumbo {
+        width: 100%;
+    }
 }
 
 @media all and (min-width: 992px) and (max-width: 1199px) { /* LARGE LG */
-.paragraph-jumbo {
-    width: 100%;
-}  
+    .paragraph-jumbo {
+        width: 100%;
+    }  
 }
 
 @media all and (min-width: 1200px) and (max-width: 1399px) { /* EXTRA LARGE XL */
-.paragraph-jumbo {
-    max-width: 300px;
-}
+    .paragraph-jumbo {
+        max-width: 300px;
+    }
 }
 
 @media all and (min-width: 1400px){ /* EXTRA EXTRA LARGE */
-.paragraph-jumbo {
-    max-width: 300px;
-} 
+    .paragraph-jumbo {
+        max-width: 300px;
+    } 
 }
