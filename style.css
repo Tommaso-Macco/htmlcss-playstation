@@ -13,6 +13,11 @@
     background-color: blue;
 }
 
+section {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
 /* NAV RULES */
 
 /* NAV-TOP RULES */
@@ -26,7 +31,24 @@
 
 /* JUMBOTRON-1 RULES */
 /* RETURNAL JUMBO */
+.image-jumbo-1 {
+    height: 800px;
+    background-image: url(img/jumbo-bg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
+.text-jumbo-inside {
+    color: #fff;
+}
+
+/* UNDER JUMBO */
+.videogame-box>img {
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 20px;
+}
 
 
 
@@ -34,6 +56,44 @@
 
 /* MAIN - SECTION-1 RULES */
 /* PLAYSTATION5 DEVICE */
+.title-section1 {
+    text-align: center;
+}
+
+.title-section1 h5 {
+    margin-top: 30px;
+}
+
+.main-title {
+    color: black;
+}
+
+.secondary-blue-title {
+    color: rgb(31, 68, 138);
+}
+
+.secondary-grey-title {
+    color: grey;
+}
+/* UNDER TITLE CONTENT */
+/* RIGHTSIDE */
+.text-section1 {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.inside-sec {
+    width: 100%;
+}
+
+
+/* LEFTSIDE */
+.image-ps5-section1>img {
+    width: 100%;
+}
+
+
 
 
 /* JUMBOTRON-2 RULES */
