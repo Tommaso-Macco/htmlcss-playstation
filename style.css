@@ -1,6 +1,6 @@
 /* GENERAL RULES */
-
-/* [class*="col"] {
+/* 
+[class*="col"] {
     min-height: 100px;
     border: 1px solid #fff;
     background-color: green;
@@ -219,12 +219,55 @@ section {
 
 /* MAIN - SECTION-4 RULES */
 /* NEWS PLAYSTATION STORE */
+.news-box {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.news-box>img {
+    width: 100%;
+}
 
 /* MAIN - SECTION-5 RULES */
 /* PLAYSTATION NOW "IDENTIC PS-PLUS" */
+.ps-now {
+    background-color: #161c3b;
+    color: #fff;
+}
+
+.button-ps-now {
+    margin-top: 35px;
+}
+
+.button-ps-now>a {
+    padding: 8px;
+    font-weight: 700;
+    background-color: #fff;
+    border-radius: 30px;
+    color: black;
+}
+
+
 
 /* MAIN - SECTION-6 RULES */
 /* SOCIAL MEDIA */
+.container-socialmedia {
+    width: 60%;
+    margin: auto;
+}
+
+.title-socialmedia {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.social-box {
+    margin-bottom: 50px;
+}
+
+.box-click>img {
+    width: 100%;
+}
 
 /* FOOTER RULES */
 

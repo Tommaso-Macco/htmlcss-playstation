@@ -19,6 +19,14 @@
     .button-ps-plus {
         margin-bottom: 50px;
     }
+
+    .button-ps-now {
+        margin-bottom: 50px;
+    }
+
+    .social-box {
+        margin-bottom: 24px;
+    }
 }
 
 @media all and (min-width: 768px) and (max-width: 991px) { /* MEDIUM MD */
