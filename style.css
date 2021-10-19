@@ -29,11 +29,12 @@ a {
 }
 
 .button>a {
-    padding: 10px;
-    border-radius: 15px;
     text-decoration: none;
     color: #fff;
+    background-color: #cd3d0f;
 }
+
+
 
 /* NAV RULES */
 
